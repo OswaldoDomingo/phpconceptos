@@ -6,6 +6,8 @@
     <title>Práctica PHP</title>
 </head>
 <body>
-    
+    <?php
+
+    ?>
 </body>
 </html>
